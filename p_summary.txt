@@ -1,0 +1,2 @@
+Mars = hot
+Pluto = cold
