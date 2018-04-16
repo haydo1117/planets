@@ -1,5 +1,2 @@
-This is not Mars.
-Is there any Martian?
+This is Mars.
 
-extra line
-extra line 2
