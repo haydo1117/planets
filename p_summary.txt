@@ -1,2 +1,3 @@
 Mars = hot
 Pluto = cold
+Mercury = new
